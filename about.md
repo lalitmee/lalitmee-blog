@@ -4,15 +4,33 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Menu
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- [Bio](#bio)
+- [Achievments](#achievments)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Bio
 
+I am Lalit Kumar, pursuing B.Tech in Information Technology from Indian Institute of Information Technology, Vadodara. I have been doing a lot of coding and software development since last 2 years. I enjoys reading, singing and playing football.
 
-[jekyll-organization]: https://github.com/jekyll
+#### Graduation(present)
+
+- Indian Institute of Information Technology, Vadodara
+
+#### Schooling
+
+- M. S. Senior Secondary Public School
+- Shishu Shiksha Kendra School
+
+#### Links
+
+- [LinkedIn](https://www.linkedin.com/in/lalitmee/)
+- [Twitter](https://twitter.com/lalitmee)
+- [Resume](https://drive.google.com/open?id=1Ct_lgvLobpzsM6Or2Hr5uPCb2CQfbBkI)
+- [GitHub](https://github.com/lalitmee)
+
+## Achievments
+
+- Web Developer Internship at The Infowarehouse, Ahmedabad (2017-2018)
+- Google Code-In Mentor at Sugar Labs (2017-2018)
+- Full Stack Developer Internship at Sense Infinity, Bangalore
